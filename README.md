@@ -83,9 +83,9 @@
 <br clear="both">
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lalit1716&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lalit1716&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="300" alt="languages graph"  />
  
-  <img src="https://streak-stats.demolab.com?user=lalit1716&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=10&order=3" height="200" alt="streak graph"  />
+  
 </div>
 
 ###
