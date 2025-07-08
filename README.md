@@ -92,8 +92,5 @@
 
 <br clear="both">
 
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif?cid=790b7611e739gcxrchc69w84nj2p8iweq610ve8v2pw42u06&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
 
 ###
